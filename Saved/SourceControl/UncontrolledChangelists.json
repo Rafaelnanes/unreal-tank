@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/dev/unreal/Udemy/tank/tank/Content/Blueprints/Pawns/BP_PawnTank.uasset",
+				"C:/dev/unreal/Udemy/tank/tank/Content/Blueprints/Pawns/BP_BasePawn.uasset",
+				"C:/dev/unreal/Udemy/tank/tank/Content/Maps/Main.umap",
+				"C:/dev/unreal/Udemy/tank/tank/Content/Blueprints/Pawns/BP_PawnTurret.uasset",
+				"C:/dev/unreal/Udemy/tank/tank/Content/Controller/IA_Fire.uasset",
+				"C:/dev/unreal/Udemy/tank/tank/Content/Controller/GameController.uasset",
+				"C:/dev/unreal/Udemy/tank/tank/Content/Controller/IA_MoveForward.uasset",
+				"C:/dev/unreal/Udemy/tank/tank/Content/Controller/IA_Movement.uasset",
+				"C:/dev/unreal/Udemy/tank/tank/Content/Maps/MyGameMode.uasset",
+				"C:/dev/unreal/Udemy/tank/tank/Content/Controller/BP_PlayerController.uasset"
+			]
+		}
+	]
+}
