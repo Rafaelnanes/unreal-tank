@@ -1,0 +1,6 @@
+- Add Health to turrets
+- Multiple types of bullets
+- Type of Weapon
+- Show cooldown for the fire time
+- Add reflection shield against turret projectiles
+- Fix bug when rotating the turrets

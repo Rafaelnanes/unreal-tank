@@ -15,7 +15,8 @@
 				"C:/dev/unreal/Udemy/tank/tank/Content/Controller/IA_Movement.uasset",
 				"C:/dev/unreal/Udemy/tank/tank/Content/Maps/MyGameMode.uasset",
 				"C:/dev/unreal/Udemy/tank/tank/Content/Controller/BP_PlayerController.uasset",
-				"C:/dev/unreal/Udemy/tank/tank/Content/Controller/IA_TurretRotation.uasset"
+				"C:/dev/unreal/Udemy/tank/tank/Content/Controller/IA_TurretRotation.uasset",
+				"C:/dev/unreal/Udemy/tank/tank/Content/Blueprints/BP_Projectile.uasset"
 			]
 		}
 	]
