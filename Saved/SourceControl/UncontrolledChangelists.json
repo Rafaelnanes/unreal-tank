@@ -11,12 +11,15 @@
 				"C:/dev/unreal/Udemy/tank/tank/Content/Blueprints/Pawns/BP_PawnTurret.uasset",
 				"C:/dev/unreal/Udemy/tank/tank/Content/Controller/IA_Fire.uasset",
 				"C:/dev/unreal/Udemy/tank/tank/Content/Controller/GameController.uasset",
-				"C:/dev/unreal/Udemy/tank/tank/Content/Controller/IA_MoveForward.uasset",
 				"C:/dev/unreal/Udemy/tank/tank/Content/Controller/IA_Movement.uasset",
 				"C:/dev/unreal/Udemy/tank/tank/Content/Maps/MyGameMode.uasset",
 				"C:/dev/unreal/Udemy/tank/tank/Content/Controller/BP_PlayerController.uasset",
-				"C:/dev/unreal/Udemy/tank/tank/Content/Controller/IA_TurretRotation.uasset",
-				"C:/dev/unreal/Udemy/tank/tank/Content/Blueprints/BP_Projectile.uasset"
+				"C:/dev/unreal/Udemy/tank/tank/Content/Blueprints/BP_Projectile.uasset",
+				"C:/dev/unreal/Udemy/tank/tank/Content/Blueprints/Pawns/BP_Health.uasset",
+				"C:/dev/unreal/Udemy/tank/tank/Content/Blueprints/WB_HealthBar.uasset",
+				"C:/dev/unreal/Udemy/tank/tank/Content/Blueprints/BP_WG_HealthBar.uasset",
+				"C:/dev/unreal/Udemy/tank/tank/Content/Controller/IA_MoveForward.uasset",
+				"C:/dev/unreal/Udemy/tank/tank/Content/Controller/IA_TurretRotation.uasset"
 			]
 		}
 	]
